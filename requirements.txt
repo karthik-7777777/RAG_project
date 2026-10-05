@@ -10,7 +10,7 @@ torch==2.7.1
 # hnswlib
 python-dotenv
 langchain-google-genai
-angchain-groq
+langchain-groq
 fastapi
 uvicorn[standard]
 python-multipart
