@@ -1,0 +1,23 @@
+# Virtual Environment
+.RAG311env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / API keys
+.env
+
+# FAISS vector database
+faiss_db/
+
+# PDF documents
+pdfs/*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
